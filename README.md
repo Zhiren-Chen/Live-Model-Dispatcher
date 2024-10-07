@@ -1,0 +1,1 @@
+### 本应用为 https://github.com/Zhiren-Chen/Agile-Rag-Server 的改进版（详情可见Agile-Rag-Server的README)，加入了对MiniCPM 最高V2.6的支持，允许多图多模态
